@@ -1,8 +1,7 @@
 //package   com.company.java.string;;
 //
-////import org.openjdk.jol.vm.VM;
 //
-//import sun.misc.VM;
+//import org.openjdk.jol.vm.VM;
 //
 //import java.nio.charset.Charset;
 //import java.nio.charset.CharsetDecoder;

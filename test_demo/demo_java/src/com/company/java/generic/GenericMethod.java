@@ -1,4 +1,4 @@
-package generic;
+package com.company.java.generic;
 
 public class GenericMethod {
     // generic method printArray

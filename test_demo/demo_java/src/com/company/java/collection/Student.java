@@ -1,4 +1,4 @@
-package collection;
+package com.company.java.collection;
 
 public class Student implements Comparable<Student> {
 
@@ -22,6 +22,7 @@ public class Student implements Comparable<Student> {
 
     @Override
     public int compareTo(Student s) {
+        System.out.println(this.age+" "+ s.age);
         if(this.age == s.age)
             return 0;
         else

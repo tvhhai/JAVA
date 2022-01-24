@@ -1,4 +1,4 @@
-package generic;
+package com.company.java.generic;
 
 //bounded type demo
 public class BoundedType {
