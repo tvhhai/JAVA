@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-//@CrossOrigin(origins = "http://localhost:8080")
+//@CrossOrigin(origins = "http://localhost:8080", maxAge = 3600)
 @RestController
 @RequestMapping("/api")
 public class TutorialController {
@@ -98,6 +98,18 @@ public class TutorialController {
 
     @GetMapping("/tutorials/published")
     public ResponseEntity<List<Tutorial>> findByPublished() {
+        try {
+            if (tutorialService.findByPublished().isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(tutorialService.findByPublished(), HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/login")
+    public ResponseEntity<List<Tutorial>> login() {
         try {
             if (tutorialService.findByPublished().isEmpty()) {
                 return new ResponseEntity<>(HttpStatus.NO_CONTENT);
