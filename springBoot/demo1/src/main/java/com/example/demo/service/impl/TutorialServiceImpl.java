@@ -44,7 +44,28 @@ public class TutorialServiceImpl implements TutorialService {
     }
 
     @Override
-    public void deleteTutorialById(long id) {
+    public Tutorial updateTutorial(long id, Tutorial tutorial) {
+        Optional<Tutorial> tutorialData = tutorialRepository.findById(id);
+        Tutorial _tutorial = tutorialData.get();
+        _tutorial.setTitle(tutorial.getTitle());
+        _tutorial.setDescription(tutorial.getDescription());
+        _tutorial.setPublished(tutorial.isPublished());
+        tutorialRepository.save(_tutorial);
+        return _tutorial;
+    }
 
+    @Override
+    public void deleteTutorialById(long id) {
+        tutorialRepository.deleteById(id);
+    }
+
+    @Override
+    public void deleteAllTutorial() {
+        tutorialRepository.deleteAll();
+    }
+
+    @Override
+    public List<Tutorial> findByPublished() {
+        return tutorialRepository.findByPublished(true);
     }
 }

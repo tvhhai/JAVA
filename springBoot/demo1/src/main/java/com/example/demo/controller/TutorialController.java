@@ -26,7 +26,6 @@ public class TutorialController {
     public ResponseEntity<List<Tutorial>> getAllTutorials(@RequestParam(required = false) String title) {
         try {
             List<Tutorial> tutorials = new ArrayList<Tutorial>();
-            System.out.println(tutorials);
             if (title == null) {
                 tutorials.addAll(tutorialService.getAllTutorial());
             } else
@@ -62,6 +61,50 @@ public class TutorialController {
             return new ResponseEntity<>(_tutorial, HttpStatus.CREATED);
         } catch (Exception e) {
             return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @PutMapping("/tutorials/{id}")
+    public ResponseEntity<Tutorial> updateTutorial(@PathVariable("id") long id, @RequestBody Tutorial tutorial) {
+        Optional<Tutorial> tutorialData = Optional.ofNullable(tutorialService.updateTutorial(id, tutorial));
+//        if (tutorialData.isPresent()) {
+//            return new ResponseEntity<>(tutorialData.get(), HttpStatus.OK);
+//        } else {
+//            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+//        }
+        return tutorialData.map(value -> new ResponseEntity<>(value, HttpStatus.OK)).orElseGet(() -> new ResponseEntity<>(HttpStatus.NOT_FOUND));
+
+    }
+
+    @DeleteMapping("/tutorials/{id}")
+    public ResponseEntity<HttpStatus> deleteTutorial(@PathVariable("id") long id) {
+        try {
+            tutorialService.deleteTutorialById(id);
+            return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+        } catch (Exception e) {
+            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @DeleteMapping("/tutorials")
+    public ResponseEntity<HttpStatus> deleteAllTutorials() {
+        try {
+            tutorialService.deleteAllTutorial();
+            return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+        } catch (Exception e) {
+            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    @GetMapping("/tutorials/published")
+    public ResponseEntity<List<Tutorial>> findByPublished() {
+        try {
+            if (tutorialService.findByPublished().isEmpty()) {
+                return new ResponseEntity<>(HttpStatus.NO_CONTENT);
+            }
+            return new ResponseEntity<>(tutorialService.findByPublished(), HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 
