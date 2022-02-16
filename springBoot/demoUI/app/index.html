@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en" ng-app="myApp">
+
+<head>
+  <meta charset="utf-8">
+  <title>Google Phone Gallery</title>
+  <link rel="stylesheet" href="lib/bootstrap/dist/css/bootstrap.css" />
+  <link rel="stylesheet" href="app.css" />
+  <link rel="stylesheet" href="auth/login/login.style.css" />
+
+  <script src="lib/jquery/dist/jquery.js"></script>
+  <script src="lib/angular/angular.js"></script>
+  <script src="lib/angular-animate/angular-animate.js"></script>
+  <script src="lib/angular-resource/angular-resource.js"></script>
+  <script src="lib/angular-route/angular-route.js"></script>
+
+
+  <script src="app.module.js"></script>
+  <script src="app.config.js"></script>
+  <script src="components/appHttp/appHttp.service.js"></script>
+
+
+  <script src="auth/auth.module.js"></script>
+  <script src="auth/login/login.module.js"></script>
+  <script src="auth/login/login.controller.js"></script>
+  <script src="auth/login/login.service.js"></script>
+
+  <script src="shared/shared.module.js"></script>
+  <script src="shared/shared.service.js"></script>
+  <script src="shared/constant/shared.constant.js"></script>
+
+
+</head>
+
+<body>
+
+  <div class="view-container">
+    <div ng-view class=""></div>
+  </div>
+
+</body>
+
+</html>
