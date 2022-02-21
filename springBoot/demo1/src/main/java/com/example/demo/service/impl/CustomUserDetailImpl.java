@@ -8,7 +8,8 @@ import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
-import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
 
 
 @Data
@@ -19,7 +20,16 @@ public class CustomUserDetailImpl implements UserDetails {
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
-        return Collections.singleton(new SimpleGrantedAuthority("ROLE_USER"));
+//        return Collections.singleton(new SimpleGrantedAuthority("ROLE_USER"));
+//        Set<GrantedAuthority> grantedAuthorities = new HashSet<>();
+//
+//        Set<Role> roles = user.getRoles();
+//        for (Role role : roles) {
+//            grantedAuthorities.add(new SimpleGrantedAuthority((ERole) role.getName()));
+//        }
+//        return grantedAuthorities;
+        List<GrantedAuthority> authorities =  user.getRoles().stream().map(role -> new SimpleGrantedAuthority(role.getName().name())).collect(Collectors.toList());
+        return authorities;
     }
 
     public Integer getId() {
@@ -42,21 +52,21 @@ public class CustomUserDetailImpl implements UserDetails {
 
     @Override
     public boolean isAccountNonExpired() {
-        return false;
+        return true;
     }
 
     @Override
     public boolean isAccountNonLocked() {
-        return false;
+        return true;
     }
 
     @Override
     public boolean isCredentialsNonExpired() {
-        return false;
+        return true;
     }
 
     @Override
     public boolean isEnabled() {
-        return false;
+        return true;
     }
 }

@@ -22,6 +22,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
+import java.io.UnsupportedEncodingException;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -48,16 +49,15 @@ public class AuthController {
 
 
     @PostMapping("/signin")
-    public ResponseEntity<?> authenticateUser(@Validated @RequestBody LoginRequest loginRequest) {
+    public ResponseEntity<?> authenticateUser(@Validated @RequestBody LoginRequest loginRequest) throws UnsupportedEncodingException {
         Authentication authentication = authenticationManager.authenticate(new UsernamePasswordAuthenticationToken(loginRequest.getUsername(), loginRequest.getPassword()));
         SecurityContextHolder.getContext().setAuthentication(authentication);
         String jwt = jwtTokenProvider.generateJwtToken(authentication);
 
         CustomUserDetailImpl customUserDetail = (CustomUserDetailImpl) authentication.getPrincipal();
-        List<String> roles = customUserDetail.getAuthorities().stream()
-                .map(item -> item.getAuthority()).collect(Collectors.toList());
+        List<String> roles = customUserDetail.getAuthorities().stream().map(item -> item.getAuthority()).collect(Collectors.toList());
 
-        return ResponseEntity.ok(new JwtResponse(jwt, customUserDetail.getId(), customUserDetail.getUsername(), customUserDetail.getPassword(), customUserDetail.getEmail()));
+        return ResponseEntity.ok(new JwtResponse(jwt, customUserDetail.getId(), customUserDetail.getUsername(), customUserDetail.getPassword(), customUserDetail.getEmail(), roles));
     }
 
     @PostMapping("/signup")
@@ -102,8 +102,6 @@ public class AuthController {
         userRepository.save(user);
         return ResponseEntity.ok(new MessageResponse("User registered successfully"));
     }
-
-
 
 
     @GetMapping("/user")

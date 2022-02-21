@@ -10,6 +10,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.security.core.Authentication;
 import org.springframework.stereotype.Component;
 
+import java.io.UnsupportedEncodingException;
 import java.util.Date;
 
 
@@ -25,7 +26,7 @@ public class JwtTokenProvider {
     @Value("${jwt.expiration}")
     private long jwtExpiration;
 
-    public String generateJwtToken(Authentication authentication){
+    public String generateJwtToken(Authentication authentication) throws UnsupportedEncodingException {
         CustomUserDetailImpl userPrincipal = (CustomUserDetailImpl) authentication.getPrincipal();
 
         return Jwts.builder()
@@ -33,19 +34,19 @@ public class JwtTokenProvider {
                 .setSubject(userPrincipal.getUsername())
                 .setIssuedAt(new Date(System.currentTimeMillis()))
                 .setExpiration(new Date(System.currentTimeMillis() + jwtExpiration ))
-                .signWith(SignatureAlgorithm.HS512, jwtSecretKey)
+                .signWith(SignatureAlgorithm.HS256, jwtSecretKey)
                 .compact();
     }
 
     public String getUsernameFromToken(String token) {
-        return Jwts.parser().setSigningKey(jwtSecretKey).parseClaimsJwt(token).getBody().getSubject();
+        return Jwts.parser().setSigningKey(jwtSecretKey).parseClaimsJws(token).getBody().getSubject();
 //        return getClaimFromToken(token, Claims::getSubject);
     }
 
 
     public boolean validateToken(String authToken){
         try {
-            Jwts.parser().setSigningKey(jwtSecretKey).parseClaimsJwt(authToken);
+            Jwts.parser().setSigningKey(jwtSecretKey).parseClaimsJws(authToken);
             return true;
         } catch (SignatureException e){
             LOGGER.error("Invalid JWT Signature: {}", e.getMessage());
