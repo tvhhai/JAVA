@@ -19,10 +19,21 @@ public class UserServiceImpl implements UserService {
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         User user = userRepository.findByUsername(username);
-        if(user == null) {
+        if (user == null) {
             throw new UsernameNotFoundException("Invalid username or password.");
         }
 //        return new UserDetailServiceImpl(user);
         return new CustomUserDetailImpl(user);
+    }
+
+
+    @Override
+    public Boolean checkExistUsername(String username) {
+        return userRepository.existsByUsername(username);
+    }
+
+    @Override
+    public Boolean checkExistEmail(String email) {
+        return userRepository.existsByEmail(email);
     }
 }

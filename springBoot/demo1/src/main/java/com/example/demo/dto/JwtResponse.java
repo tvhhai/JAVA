@@ -8,8 +8,20 @@ import java.util.List;
 public class JwtResponse {
     private String token;
     private String type = "Bearer";
-    private Long id;
+    private Integer id;
     private String username;
     private String email;
+    private String password;
     private List<String> roles;
+
+    public JwtResponse(String token,Integer id, String username, String password, String email) {
+        this.token = token;
+        this.id = id;
+        this.username = username;
+        this.password = password;
+        this.email = email;
+
+    }
+
+
 }
