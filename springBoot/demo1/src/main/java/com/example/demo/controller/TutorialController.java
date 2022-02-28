@@ -17,7 +17,7 @@ import java.util.Optional;
 @RequestMapping("/api")
 public class TutorialController {
     @Autowired
-    TutorialRepository tutorialRepository;
+    private TutorialRepository tutorialRepository;
 
     @Autowired
     private TutorialService tutorialService;

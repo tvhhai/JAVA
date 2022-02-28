@@ -1,7 +1,7 @@
 package com.example.demo.dataseed;
 
 import com.example.demo.entity.Role;
-import com.example.demo.repository.RoleRespository;
+import com.example.demo.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 public class RoleSeed  implements CommandLineRunner {
 
     @Autowired
-    RoleRespository roleRespository;
+    RoleRepository roleRepository;
 
 
     @Override
@@ -19,14 +19,14 @@ public class RoleSeed  implements CommandLineRunner {
     }
 
     private void loadUserData() {
-        if (roleRespository.count() == 0) {
+        if (roleRepository.count() == 0) {
             Role user1 = new Role("ROLE_USER");
             Role user2 = new Role("ROLE_ADMIN");
             Role user3 = new Role("ROLE_MODERATOR");
 
-            roleRespository.save(user1);
-            roleRespository.save(user2);
-            roleRespository.save(user3);
+            roleRepository.save(user1);
+            roleRepository.save(user2);
+            roleRepository.save(user3);
         }
     }
 }
