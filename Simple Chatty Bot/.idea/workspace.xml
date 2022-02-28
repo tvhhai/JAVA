@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3feff6cb-a954-4ef3-8724-4be551c9d5f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Decrement all/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Increasing a variable by one/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Increasing a variable by one/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Increasing a variable by one/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Increasing a variable by one/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/What is the result/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/What is the result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/What is the result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/What is the result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Increment and decrement/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/IAdvertiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/IBookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/IDistributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/Q1Distributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/Q2Distributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/Q3Distributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/StoreLocation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/factorymethod/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/singleton/EnumSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.3/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/classes/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/classes/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/generated/sources/annotationProcessor/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/generated/sources/headers/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/generated/sources/headers/java/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/reports/tests/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/reports/tests/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/test-results/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/test-results/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/tmp/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot/task/build/tmp/Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Simple_Chatty_Bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Forms of comments/Simple_Chatty_Bot.Topics-Comments-Forms_of_comments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Forms of comments/Simple_Chatty_Bot.Topics-Comments-Forms_of_comments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Hello, Java platform/Simple_Chatty_Bot.Topics-Comments-Hello,_Java_platform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Hello, Java platform/Simple_Chatty_Bot.Topics-Comments-Hello,_Java_platform.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Select all correct comments/Simple_Chatty_Bot.Topics-Comments-Select_all_correct_comments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Select all correct comments/Simple_Chatty_Bot.Topics-Comments-Select_all_correct_comments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Statements/Simple_Chatty_Bot.Topics-Comments-Statements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Statements/Simple_Chatty_Bot.Topics-Comments-Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Theory/Simple_Chatty_Bot.Topics-Comments-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Comments/Theory/Simple_Chatty_Bot.Topics-Comments-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Find the correct statement/Simple_Chatty_Bot.Topics-Errors_in_programs-Find_the_correct_statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Find the correct statement/Simple_Chatty_Bot.Topics-Errors_in_programs-Find_the_correct_statement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix compile-time errors/Simple_Chatty_Bot.Topics-Errors_in_programs-Fix_compile-time_errors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix compile-time errors/Simple_Chatty_Bot.Topics-Errors_in_programs-Fix_compile-time_errors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix the program/Simple_Chatty_Bot.Topics-Errors_in_programs-Fix_the_program.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Fix the program/Simple_Chatty_Bot.Topics-Errors_in_programs-Fix_the_program.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Print the age/Simple_Chatty_Bot.Topics-Errors_in_programs-Print_the_age.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Print the age/Simple_Chatty_Bot.Topics-Errors_in_programs-Print_the_age.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Select the statement/Simple_Chatty_Bot.Topics-Errors_in_programs-Select_the_statement.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Select the statement/Simple_Chatty_Bot.Topics-Errors_in_programs-Select_the_statement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Statements/Simple_Chatty_Bot.Topics-Errors_in_programs-Statements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Statements/Simple_Chatty_Bot.Topics-Errors_in_programs-Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Simple_Chatty_Bot.Topics-Errors_in_programs-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Errors in programs/Theory/Simple_Chatty_Bot.Topics-Errors_in_programs-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Determine the result/Simple_Chatty_Bot.Topics-Floating-point_types-Determine_the_result.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Determine the result/Simple_Chatty_Bot.Topics-Floating-point_types-Determine_the_result.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Distance/Simple_Chatty_Bot.Topics-Floating-point_types-Distance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Distance/Simple_Chatty_Bot.Topics-Floating-point_types-Distance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Evaluate an expression/Simple_Chatty_Bot.Topics-Floating-point_types-Evaluate_an_expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Evaluate an expression/Simple_Chatty_Bot.Topics-Floating-point_types-Evaluate_an_expression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Existing floating-point types/Simple_Chatty_Bot.Topics-Floating-point_types-Existing_floating-point_types.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Existing floating-point types/Simple_Chatty_Bot.Topics-Floating-point_types-Existing_floating-point_types.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Explain the result/Simple_Chatty_Bot.Topics-Floating-point_types-Explain_the_result.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Explain the result/Simple_Chatty_Bot.Topics-Floating-point_types-Explain_the_result.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Exponential expression/Simple_Chatty_Bot.Topics-Floating-point_types-Exponential_expression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Exponential expression/Simple_Chatty_Bot.Topics-Floating-point_types-Exponential_expression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Find X/Simple_Chatty_Bot.Topics-Floating-point_types-Find_X.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Find X/Simple_Chatty_Bot.Topics-Floating-point_types-Find_X.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Statements/Simple_Chatty_Bot.Topics-Floating-point_types-Statements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Statements/Simple_Chatty_Bot.Topics-Floating-point_types-Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Theory/Simple_Chatty_Bot.Topics-Floating-point_types-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Floating-point types/Theory/Simple_Chatty_Bot.Topics-Floating-point_types-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Desks/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Desks/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Next even number/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Next_even_number.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Next even number/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Next_even_number.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Reversing/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Reversing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Reversing/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Reversing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Snail/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Snail.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Snail/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Snail.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Theory/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Integer types and operations/Theory/Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello_/Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello_.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Hello_/Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Introduction to Java/Theory/Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/First, second, third/Simple_Chatty_Bot.Topics-Printing_data-First,_second,_third.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/First, second, third/Simple_Chatty_Bot.Topics-Printing_data-First,_second,_third.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Simple_Chatty_Bot.Topics-Printing_data-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/Printing data/Theory/Simple_Chatty_Bot.Topics-Printing_data-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String/Check burgs/Simple_Chatty_Bot.Topics-String-Check_burgs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String/Check burgs/Simple_Chatty_Bot.Topics-String-Check_burgs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String/Comparing strings/Simple_Chatty_Bot.Topics-String-Comparing_strings.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String/Comparing strings/Simple_Chatty_Bot.Topics-String-Comparing_strings.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String/Replacing 'a' with 'b'/Simple_Chatty_Bot.Topics-String-Replacing_'a'_with_'b'.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String/Replacing 'a' with 'b'/Simple_Chatty_Bot.Topics-String-Replacing_'a'_with_'b'.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String/Statements/Simple_Chatty_Bot.Topics-String-Statements.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String/Statements/Simple_Chatty_Bot.Topics-String-Statements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/String/Theory/Simple_Chatty_Bot.Topics-String-Theory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Topics/String/Theory/Simple_Chatty_Bot.Topics-String-Theory.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String/Java as a string/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String/Java as a string/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/String/Theory/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/String/Theory/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/ComparableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/ComparableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparator/ComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparator/ComparatorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/factorymethod/FactoryMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/factorymethod/FactoryMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/assignments/datastructure/TheRing.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/assignments/datastructure/TheRing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparable/ComparableExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparable/ComparableExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparable/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparable/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparator/ComparatorExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparator/ComparatorExample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparator/ComparatorExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/collection/comparator/ComparatorExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/behavioral/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/behavioral/command/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/behavioral/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/behavioral/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/abstractfactory/AbstractFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/abstractfactory/AbstractFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/builder/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/builder/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/factorymethod/FactoryMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/factorymethod/FactoryMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/prototype/Prototype.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/prototype/Prototype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/singleton/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/creational/singleton/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$BirdAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$BirdAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$PlasticToyDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$PlasticToyDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$Sparrow.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$Sparrow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$ToyDuck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter$ToyDuck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$AdvancedMediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$AdvancedMediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$AudioPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$AudioPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$MediaAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$MediaAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$MediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$MediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$Mp4Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$Mp4Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$VlcPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2$VlcPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Adapter6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/AdvancedBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/AdvancedBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/BuilderAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/BuilderAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/BuilderImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/BuilderImplementation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/CheckNumberAdaptee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/CheckNumberAdaptee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/HouseBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/HouseBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Line.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Line.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/LineAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/LineAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Media.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Media.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/MediaAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/MediaAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/MediaPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/MediaPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Mp4Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Mp4Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/PhoneAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/PhoneAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/PhoneTarget.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/PhoneTarget.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/RectangleAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/RectangleAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/SkyscrapperBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/SkyscrapperBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/VlcVideo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/adapter/VlcVideo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Assemble.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Assemble.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Bike.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BlueCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BlueCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$CheckingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$CheckingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$TPBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$TPBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$VietcomBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo$VietcomBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/BridgeDemo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/GreenCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/GreenCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/GreenSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/GreenSquare.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Produce.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Produce.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/RedCircle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/RedCircle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Workshop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/bridge/Workshop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/EmailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/EmailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/FacadeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/FacadeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/ShippingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/ShippingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/ShopFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/ShopFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/SmsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/designpattern/structural/facade/SmsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass$Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/array/JavaArrayClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/ComparableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/ComparableDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/ComparatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/ComparatorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/EnumerationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/EnumerationDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/IteratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/IteratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/StudentComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/collection/StudentComparator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/datastructure/TheRing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/BoundedType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/BoundedType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/GenericDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/GenericDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/GenericMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/out/production/test_demo/com/company/java/generic/GenericMethod.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23uYE4YQshL3DhiTCLlE518qcbN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Topics-Errors_in_programs-Print_the_age.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Next_even_number.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Snail.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Simple_Chatty_Bot.Topics-Errors_in_programs-Theory.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3feff6cb-a954-4ef3-8724-4be551c9d5f5" name="Changes" comment="" />
+      <created>1642585323712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642585323712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

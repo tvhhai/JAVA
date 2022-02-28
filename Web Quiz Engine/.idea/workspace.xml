@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fc95cb82-c9c1-4857-8c5c-6a864fa5bc72" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Hello_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Introduction to Java/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Area of a circle/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Determine the result/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Distance/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Distance/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Distance/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Distance/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Existing floating-point types/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Find X/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Find X/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Find X/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Find X/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Floating-point types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Hello_/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Hello_/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Memory cleaning/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Memory cleaning/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Memory cleaning/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Memory cleaning/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Running a program on different platforms/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Running a program on different platforms/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Introduction to Java/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/The Hello World program/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Overview of the basic program/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Code with nulls/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a primitive/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Creating a reference type/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/The assignment/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Primitive and reference types/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Digits from 0 to 9 backwards/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Printing a magic letter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Stars/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Stars/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Stars/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Stars/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/The result of a Tic-Tac-Toe game/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/We need to learn Java/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/We need to learn Java/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/We need to learn Java/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/We need to learn Java/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/What does the code print/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/What does the code print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/What does the code print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/What does the code print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Printing data/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Fill the declaration/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/Types and variables/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topics/section-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/collection/comparator/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/behavioral/command/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/behavioral/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/builder/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/factorymethod/FactoryMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/prototype/Prototype.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/designpattern/creational/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/test_demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/demo1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/out/production/demo1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/out/production/demo1/com/company/designPatterns/Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo1/src/com/company/designPatterns/Adapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/demo2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/out/production/demo2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/demo_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/demo_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/ComparableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/ComparableDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/ComparatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/ComparatorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/EnumerationDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/EnumerationDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/IteratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/IteratorDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/collection/StudentComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/datastructure/TheRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/datastructure/TheRing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/BoundedType.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/BoundedType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/GenericDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/GenericDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/GenericMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/generic/GenericMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/AbstractFactoryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/CamryFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/IManufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/ManufacturerProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/Vfe34Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/Vfe35Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/VinFast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/abstractfactory/ViosFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/AdapterDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/MediaPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/MediaPlayer1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/Mp4Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/VideoAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/VideoPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/adapter/VlcPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/BackendDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/DecoratorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/DevDecorator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/FrontendDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/decorator/InternationalDev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/factory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/factory/FactoryDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/factory/Vfe34Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/factory/Vfe35Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/factory/VinFast.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/proxy/ProxyDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/proxy/ProxyWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/proxy/RealWorker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/patterns/proxy/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/string/JavaString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test_demo/demo_java/src/com/company/java/string/JavaString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/src/week1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/src/week1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test_demo/week1/week1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23oeyb3gZhJqJn3LV0nn2vlAgDd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Task">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Web_Quiz_Engine.Topics-Printing_data-Printing_a_magic_letter.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task" />
+      <module name="Web_Quiz_Engine.Topics-Introduction_to_Java-Theory.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc95cb82-c9c1-4857-8c5c-6a864fa5bc72" name="Changes" comment="" />
+      <created>1642405122312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642405122312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
