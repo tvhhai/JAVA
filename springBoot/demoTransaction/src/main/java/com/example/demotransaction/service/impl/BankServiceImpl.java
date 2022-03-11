@@ -14,9 +14,11 @@ import com.example.demotransaction.service.BankService;
 import com.example.demotransaction.service.LoggingService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.transaction.annotation.Propagation;
 
 
 import javax.transaction.Transactional;
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 import java.util.Optional;
@@ -34,7 +36,7 @@ public class BankServiceImpl implements BankService {
     private LoggingService loggingService;
 
     @Override
-    @Transactional(rollbackOn = {Exception.class})
+//    @Transactional(rollbackOn = {Exception.class})
     public void generateSampleData() {
         List<Account> list = accountRepository.findAll();
         if (list.isEmpty()) {
@@ -49,7 +51,7 @@ public class BankServiceImpl implements BankService {
             accountRepository.save(bobAccount);
             accountRepository.save(aliceAccount);
             accountRepository.save(tomAccount);
-            accountRepository.flush();
+//            accountRepository.flush();
         }
     }
 
@@ -89,11 +91,14 @@ public class BankServiceImpl implements BankService {
         }
 
         fromAccount.setBalance(fromAccount.getBalance() - amount);
+
+        // dontRollbackOn
+//        if (true) {
+//            throw new DummyException();
+//        }
+
         toAccount.setBalance(toAccount.getBalance() + amount);
-        /**  dontRollbackOn
-         if (true) {
-         throw new DummyException();
-         } */
+
         Date transferDate = new Date();
         TransactLog transactLog = new TransactLog(fromAccount, toAccount, amount, transferDate);
 
@@ -104,5 +109,20 @@ public class BankServiceImpl implements BankService {
         loggingService.saveLog(fromAccID, toAccID, amount, BankErrorCode.SUCCESS, "Success");
         System.out.println("********************************************************************************");
         return new TransferResult(BankErrorCode.SUCCESS, "Transfer success", transferDate);
+    }
+
+    @Override
+    @Transactional(value = Transactional.TxType.MANDATORY)
+    public List<Account> getAllAccount() {
+         return accountRepository.findAll();
+    }
+
+    @Override
+    @Transactional(value = Transactional.TxType.SUPPORTS)
+    public void updateMoney(long id, long amount) {
+        Account account = accountRepository.findById(id).orElse(null);
+        System.out.println(account+"000000000000000000000000000000000000000000000000000000000000000000000000000000000000");
+        assert account != null;
+        account.setBalance(amount);
     }
 }
