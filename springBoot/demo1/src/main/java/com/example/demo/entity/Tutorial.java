@@ -1,9 +1,6 @@
 package com.example.demo.entity;
 
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import lombok.*;
 
 import javax.persistence.*;
 
@@ -36,12 +33,6 @@ public class Tutorial {
 
     @Override
     public String toString() {
-//        return "Tutorial{" +
-//                "id=" + id +
-//                ", title='" + title + '\'' +
-//                ", description='" + description + '\'' +
-//                ", published=" + published +
-//                '}';
         return "Tutorial [id=" + id + ", title=" + title + ", desc=" + description + ", published=" + published + "]";
     }
 }
