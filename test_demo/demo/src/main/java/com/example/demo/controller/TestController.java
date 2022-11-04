@@ -1,5 +1,6 @@
 package com.example.demo.controller;
 
+import com.example.demo.dto.response.TestResponse;
 import com.example.demo.entity.Test;
 import com.example.demo.repository.TestRepository;
 import com.example.demo.service.TestService;
@@ -12,7 +13,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-//@CrossOrigin(origins = "http://localhost:8080", maxAge = 3600)
+import static com.example.demo.utils.statusCodeEnum.BAD_REQUEST;
+import static com.example.demo.utils.statusCodeEnum.SUCCESS;
+
+//@CrossOrigin(origins = "http://localhost:3006", maxAge = 3600)
 @RestController
 @RequestMapping("/api")
 public class TestController {
@@ -23,8 +27,8 @@ public class TestController {
     private TestService testService;
 
     @GetMapping("/test")
-    public ResponseEntity<List<Test>> getAllTutorials(@RequestParam(required = false) String title) {
-        System.out.println("vãi ò");
+    public ResponseEntity<TestResponse<Test>> getAllTutorials(@RequestParam(required = false) String title) {
+        TestResponse<Test> testResponse = new TestResponse<>();
         try {
             List<Test> test = new ArrayList<>();
             if (title == null) {
@@ -35,9 +39,15 @@ public class TestController {
             if (test.isEmpty()) {
                 return new ResponseEntity<>(HttpStatus.NO_CONTENT);
             }
-            return new ResponseEntity<>(test, HttpStatus.OK);
+            testResponse.setResponse(test);
+            testResponse.setStatus(SUCCESS);
+            testResponse.setStatusCode(SUCCESS.getValue());
+
+            return new ResponseEntity<>(testResponse, HttpStatus.OK);
         } catch (Exception e) {
-            return new ResponseEntity<>(null, HttpStatus.INTERNAL_SERVER_ERROR);
+            testResponse.setStatus(BAD_REQUEST);
+            testResponse.setStatusCode(BAD_REQUEST.getValue());
+            return new ResponseEntity<>(testResponse, HttpStatus.INTERNAL_SERVER_ERROR);
         }
     }
 
