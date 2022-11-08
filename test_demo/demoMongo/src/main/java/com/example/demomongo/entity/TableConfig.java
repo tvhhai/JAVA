@@ -17,7 +17,9 @@ import java.util.List;
 @AllArgsConstructor
 public class TableConfig {
     @Id
-    private String id;
+    @Field("_id")
+    private String _id;
+
     @Field
     private String tableId;
 
@@ -27,7 +29,7 @@ public class TableConfig {
     @Override
     public String toString() {
         return "TableConfig{" +
-                "id='" + id + '\'' +
+                "id='" + _id + '\'' +
                 ", tableId='" + tableId + '\'' +
                 ", configJson=" + configJson +
                 '}';

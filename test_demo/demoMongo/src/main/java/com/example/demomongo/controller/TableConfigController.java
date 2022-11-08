@@ -21,29 +21,57 @@ public class TableConfigController {
     @GetMapping("/table-config")
     public ResponseEntity<List<TableConfig>> getAllTutorials() {
         List<Test> test = new ArrayList<>();
-        return new ResponseEntity<>(tableConfigRepo.findAll(), HttpStatus.OK);
+        try {
+            tableConfigRepo.findAll();
+            return new ResponseEntity<>(tableConfigRepo.findAll(), HttpStatus.OK);
+        } catch (Exception e) {
+            return new ResponseEntity<>(tableConfigRepo.findAll(), HttpStatus.NOT_FOUND);
+        }
+    }
+
+    @GetMapping("/table-config/{id}")
+    public ResponseEntity<List<TableConfig>> getTutorials(@PathVariable("id") String id) {
+//        List<Test> test = new ArrayList<>();
+        Optional<TableConfig> tutorialData = Optional.ofNullable(tableConfigRepo.findByTableId(id));
+
+        if (tutorialData.isPresent()) {
+            return new ResponseEntity<>(tableConfigRepo.findAll(), HttpStatus.OK);
+        } else {
+            System.out.println(tutorialData);
+            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+        }
     }
 
     @PostMapping("/table-config")
     public ResponseEntity<TableConfig> save(@RequestBody TableConfig tableConfig) {
-        System.out.println(tableConfig);
-        TableConfig _tableConfig = tableConfigRepo.save(tableConfig);
-        return new ResponseEntity<>(_tableConfig, HttpStatus.CREATED);
-    }
-
-    @PutMapping("/table-config/{id}")
-    public ResponseEntity<TableConfig> updateTutorial(@PathVariable("id") String id, @RequestBody TableConfig tableConfig) {
-
-        Optional<TableConfig> tutorialData = Optional.ofNullable(tableConfigRepo.findByTableId(id));
+        System.out.println(tableConfig.getTableId());
+        Optional<TableConfig> tutorialData = Optional.ofNullable(tableConfigRepo.findByTableId(tableConfig.getTableId()));
         System.out.println(tutorialData);
-        System.out.println(tableConfig + " " + id);
 
         if (tutorialData.isPresent()) {
             TableConfig _tutorial = tutorialData.get();
             _tutorial.setConfigJson(tableConfig.getConfigJson());
             return new ResponseEntity<>(tableConfigRepo.save(_tutorial), HttpStatus.OK);
         } else {
-            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+            TableConfig _tableConfig = tableConfigRepo.save(tableConfig);
+            return new ResponseEntity<>(_tableConfig, HttpStatus.CREATED);
+//
+        }
+    }
+
+    @PutMapping("/table-config/{id}")
+    public ResponseEntity<TableConfig> updateTutorial(@PathVariable("id") String id, @RequestBody TableConfig tableConfig) {
+
+        Optional<TableConfig> tutorialData = Optional.ofNullable(tableConfigRepo.findByTableId(id));
+
+        if (tutorialData.isPresent()) {
+            TableConfig _tutorial = tutorialData.get();
+            _tutorial.setConfigJson(tableConfig.getConfigJson());
+            return new ResponseEntity<>(tableConfigRepo.save(_tutorial), HttpStatus.OK);
+        } else {
+            TableConfig _tableConfig = tableConfigRepo.save(tableConfig);
+            return new ResponseEntity<>(_tableConfig, HttpStatus.CREATED);
+//            return new ResponseEntity<>(HttpStatus.NOT_FOUND);
         }
 
     }
